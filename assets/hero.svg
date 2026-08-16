@@ -1,0 +1,18 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" rx="24" fill="#0D1117"/>
+
+  <path d="M0 80H1200M0 160H1200M0 240H1200" stroke="#FFFFFF" stroke-opacity="0.035"/>
+  <path d="M200 0V320M400 0V320M600 0V320M800 0V320M1000 0V320" stroke="#FFFFFF" stroke-opacity="0.035"/>
+
+  <circle cx="112" cy="72" r="5" fill="#7EE787"/>
+  <text x="136" y="80" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="3">HELLO, I'M</text>
+
+  <text x="104" y="166" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">Guyue</text>
+  <text x="108" y="213" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25">AI Product Manager  ×  Vibe Coding</text>
+
+  <rect x="104" y="250" width="482" height="2" rx="1" fill="#30363D"/>
+  <text x="104" y="284" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="0.5">Insight · Product 0→1 · Agent Evaluation</text>
+
+  <path d="M1080 72L1108 100L1080 128" stroke="#7EE787" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1024 128L996 100L1024 72" stroke="#7EE787" stroke-opacity="0.45" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
